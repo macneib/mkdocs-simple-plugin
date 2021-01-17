@@ -88,7 +88,7 @@
     {
       "label": "upgrade",
       "type": "shell",
-      "command": "pip3 install --upgrade pip && upgrade-requirements",
+      "command": "pip3 install --upgrade pip && upgrade-requirements -y",
       "problemMatcher": []
     },
     {
